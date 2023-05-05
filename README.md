@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KateKisel
+- 👀 I’m interested in python programing and geophysics
+- 🌱 I’m currently learning basic python curse
